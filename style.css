@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header_top{
+    height: 500px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.header_top h1{
+    color: rgb(243, 35, 104);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 5%;
+    
+}
+.half-width_left{
+    margin-top: 100px;
+}
+.half-width img{
+    width: 100%;
+  
+}
+p{
+    color: dimgray;
+}
